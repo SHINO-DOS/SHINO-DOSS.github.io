@@ -17,5 +17,5 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert('Ya sabia que no te negarias😅😅😅');
+    alert('Ya sabia que Querías buscar de Jesús, Bienvenido a tu nueva Familia');
 });
